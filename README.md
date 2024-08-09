@@ -23,22 +23,6 @@ This project provides a flexible and customizable system for interaction points 
     start interaction-points
     ```
 
-3. **Configure Interaction Points:** Edit the `config.lua` file to set up your desired interaction points, actions, and UI settings.
-    ```lua
-    interactionPoints = {
-        -- Example Point
-        {
-            name = "Repair Station",
-            coords = vector3(200.0, -300.0, 40.0),
-            action = "repair",
-            
-        },
-        -- Add more points here
-    }
-    ```
-
-4. **Customization:** Tailor the script further by adjusting the event triggers, action conditions, and text styles to match your server's theme.
-
 ## Usage
 
 Once the interaction points are configured and the server is running, players can approach these points and trigger the associated actions. The interaction point UI will display as players enter the designated zones, providing a seamless and immersive experience.
