@@ -20,7 +20,7 @@ This project provides a flexible and customizable system for interaction points 
 
 2. **Add to server.cfg:** Include the resource in your `server.cfg` to ensure it loads correctly.
     ```lua
-    start interaction-points
+    start Kewoah-InterPoints
     ```
 
 ## Usage
@@ -33,5 +33,5 @@ Contributions are welcome! If you have suggestions for improvements or want to r
 
 ## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License. See the `GPLv3` file for more details.
 
