@@ -1,7 +1,3 @@
-Here’s a polished `.readme` template for your GitHub repository about interaction points:
-
----
-
 # Interaction Points in FiveM
 
 ## Overview
