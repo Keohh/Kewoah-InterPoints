@@ -15,7 +15,7 @@ This project provides a flexible and customizable system for interaction points 
 
 1. **Download the Repository:** Clone or download the repository to your FiveM server’s resources folder.
     ```bash
-    git clone https://github.com/your-repo/interaction-points.git
+    git clone https://github.com/Keohh/Kewoah-InterPoints.git
     ```
 
 2. **Add to server.cfg:** Include the resource in your `server.cfg` to ensure it loads correctly.
