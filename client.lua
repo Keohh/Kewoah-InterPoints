@@ -21,7 +21,7 @@ Citizen.CreateThread(function()
             for _, coords in ipairs(point.coords) do
                 if isPlayerNearCoords(coords, 0.6) then -- Change the 5.0 to the desired interaction radius
                     if point.canInteract(playerPed, playerCoords, point.args) then
-                        DisplayHelpTextThisFrame("Press ~q~E ~w~to " .. point.label)
+                        DisplayHelpTextThisFrame("Press E to " .. point.label)
                         
                         if IsControlJustReleased(0, 38) then -- E key
                             point.action(playerPed, playerCoords, point.args)
